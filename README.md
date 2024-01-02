@@ -7,5 +7,7 @@
 🚀 Spring Boot: Crafting scalable and efficient APIs
 🌐 HTML, CSS, JavaScript: Frontend magic and interactivity
 
+[![An image of @sinchana06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sinchana06)](https://holopin.io/@sinchana06)
+
 🌟 Let's build the future together! Open to collaboration, innovative projects, and challenging opportunities. Check out my repositories below and let's connect! 👇
 
